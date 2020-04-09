@@ -20,7 +20,7 @@ The bash script remotecam.sh runs remotecam3x.py as daemon / service, with usual
 ```
 You can activate the remote control by running the bash script go.sh
 ```
-./go.sh
+go.sh
 ```
 on your Raspberry at startup. The daemon starts; after a time interval set by user, the daemon stops and a command safely shut down your Raspberry.
 
