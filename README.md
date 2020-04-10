@@ -1,6 +1,6 @@
 # Remote cam with Telegram
 
-Connect one or more webcams to your Raspberry (or any PC with Linux distro), download this simple project, and you will be able to get snapshots from inside your home directly to your phone when you are out.
+Connect one or more webcams to your Raspberry (or any PC with Linux distro), download this simple project, and you will be able to get snapshots from inside your home directly on your phone from anywhere.
 
 
 ### Prerequisites
