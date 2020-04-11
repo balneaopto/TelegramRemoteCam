@@ -10,6 +10,11 @@ Connect one or more webcams to your Raspberry (or any PC with Linux distro), dow
 ```
 sudo pip3 install telegram-send
 ```
+* Pygame for Python3. On Debian/Ubuntu:
+```
+sudo apt-get install python3-pygame
+```
+* Pillow library.
 
 ### Usage
 
